@@ -1,0 +1,17 @@
+# some information about you
+name: "David Hernández Uriostegui"
+nickname: "David"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I'm "
+image: "images/author/profilepic.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "Dhdezu@ciencias.unam.mx"
+  phone: "+52 473 124 1727"
+
+# some summary about what you do
+summary:
+  - I am a Computer Science student
+  - I am currently learning Data Science
+  - I am currently looking to get an intership
+  - I love Hackatons

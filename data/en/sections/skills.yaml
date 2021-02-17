@@ -1,0 +1,32 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "Know intermedium Python programming, used for most of my University projects."
+
+- name: Java
+  logo: "/images/sections/skills/java.png"
+  summary: "Using the lenguage since the begging my University path."
+
+- name: Linux
+  logo: "/images/sections/skills/linux.png"
+  summary: "Using as the main operating system (Debian). Capable of writing bash/shell scripts."
+
+- name: Git
+  logo: "/images/sections/skills/git.png"
+  summary: "Experienced with git-based development. Mostly, use Github.."
+
+- name: C++
+  logo: "/images/sections/skills/c++.png"
+  summary: "Know basic C/C++ programming. Used for competitive programming and problem solving (ICPC)."

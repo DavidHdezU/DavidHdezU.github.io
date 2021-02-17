@@ -1,0 +1,27 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: ICPC
+    url: "https://www.example.com"
+    location: Mexico City
+    # company overview
+    overview: International Collegiate Programming Contest.
+  positions:
+  - designation: Participant
+    start: Sep 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Solve as many competitive programming problems
+    end: Dec 2020

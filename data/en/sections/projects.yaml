@@ -1,0 +1,50 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: Shamir Secret Sharing Scheme
+  logo: /images/sections/projects/shamir.png
+  role: Developer
+  timeline: "Nov 2020 - Dec 2020"
+  repo: https://github.com/DavidHdezU/ShamirSecretSharingScheme # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: An implementation of the Shamir Secrete Share Scheme
+  tags: ["academic"]
+
+- name: Cloud Coverga Index Reporter
+  logo: /images/sections/projects/cloud.png
+  role: Developer
+  timeline: "Oct 2020 - Nov 2020"
+  repo: https://github.com/DavidHdezU/Cloud-Cover-Index-Reporter
+  #url: ""
+  summary: This project aims to calculate the Cloud Coverage Index according to Photographs in .JPG format with a 360 ° wide angle lens
+  tags: ["academic"]
+
+- name: Weather Reporter
+  logo: /images/sections/projects/weather.png
+  role: Developer
+  timeline: "Oct 2019 - Dec 2019"
+  repo: https://github.com/DavidHdezU/WeatherReport
+  #url: ""
+  summary: This project aims to use OpenWehatherMap requests, to provide information about the weather in different cities.
+  tags: ["academic"]
+

@@ -1,0 +1,35 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Bachelors in Computer Science
+  icon: fa-graduation-cap
+  timeframe: 2019-present (Graduation Expected 2023)
+  institution:
+    name: Faculty of Science, UNAM
+    url: "#"
+  grade: #(optional)
+    scale: GPA
+    achieved: 8.9
+    outOf: 10
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Modeling and Programming
+      achieved: 10
+      outOf: 10
+    - name: Data Structures
+      achieved: 9
+      outOf: 10
+    - name: Introduction to Computer Science
+      achieved: 8
+      outOf: 10
