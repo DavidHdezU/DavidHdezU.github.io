@@ -30,7 +30,7 @@ projects:
   summary: An implementation of the Shamir Secrete Share Scheme
   tags: ["academic"]
 
-- name: Cloud Coverga Index Reporter
+- name: Cloud Coverage Index Reporter
   logo: /images/sections/projects/cloud.png
   role: Developer
   timeline: "Oct 2020 - Nov 2020"
@@ -42,7 +42,7 @@ projects:
 - name: Weather Reporter
   logo: /images/sections/projects/weather.png
   role: Developer
-  timeline: "Oct 2019 - Dec 2019"
+  timeline: "Sep 2020 - Oct 2020"
   repo: https://github.com/DavidHdezU/WeatherReport
   #url: ""
   summary: This project aims to use OpenWehatherMap requests, to provide information about the weather in different cities.

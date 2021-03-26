@@ -17,7 +17,7 @@ skills:
 
 - name: Java
   logo: "/images/sections/skills/java.png"
-  summary: "Using the lenguage since the begging my University path."
+  summary: "Using the lenguage since the beginning my University path."
 
 - name: Linux
   logo: "/images/sections/skills/linux.png"
@@ -25,7 +25,7 @@ skills:
 
 - name: Git
   logo: "/images/sections/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, use Github.."
+  summary: "Experienced with git-based development. Mostly, use Github."
 
 - name: C++
   logo: "/images/sections/skills/c++.png"
